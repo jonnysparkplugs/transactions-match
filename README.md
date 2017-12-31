@@ -2,6 +2,7 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
+![Example screenshot](https://github.com/jonnysparkplugs/transactions-match/raw/master/screenshot/example.png)
 
 ## Available Scripts
 
