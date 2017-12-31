@@ -1,0 +1,6 @@
+export const APP_STATUS = {
+    IS_INIT: 'IS_INIT',
+    IS_LOADING: 'IS_LOADING',
+    IS_LOADED: 'IS_LOADED',
+    IS_ERROR: 'IS_ERROR'
+}
